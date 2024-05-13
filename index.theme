@@ -156,8 +156,8 @@ Context=Status
 Size=48
 Type=Fixed
 
-[64x64/status]
-Context=Status
+[64x64/apps]
+Context=Applications
 Size=64
 Type=Fixed
 
